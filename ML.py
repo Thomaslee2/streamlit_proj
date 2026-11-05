@@ -25,3 +25,5 @@ if app_mode == 'Home':
     print(data.columns) # to see the columns in the terminal
     st.write(data.columns) #to see the columns in the browsers
 
+st.video("https://www.youtube.com/watch?v=5DmLGUCmxD0&list=RD5DmLGUCmxD0&start_radio=1")
+
